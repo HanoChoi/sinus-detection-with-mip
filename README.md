@@ -7,7 +7,7 @@ Requirements
 - tensorflow 2.3.1
 - Medpy
 - Pillow
-- MAtploblib
+- Matploblib
 - Numpy
   
 
