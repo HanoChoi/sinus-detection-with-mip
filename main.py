@@ -11,9 +11,7 @@ from tensorflow.keras.layers import (
     Input,
     MaxPool2D, Dense, Flatten, BatchNormalization, Dropout
 )
-import glob
 import os
-import scipy.ndimage
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
