@@ -17,3 +17,5 @@ Requirements
 - line_width(int) : 선분 두께(px)
 - is_skeleton_or_box : True -> 골격만 있는 상자, False -> 그냥 상자로 각 타겟들 표시
 - ex) python main.py 10438532 5 False
+
+현재 12/4 이후 main2.py를 사용하는 새로운 모델이 있으나 용량이 너무 커서 업로드가 되지 않고있음.
